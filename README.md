@@ -27,3 +27,12 @@ It’s a small example, but for me it really clarified how the component model m
 
 If you’re curious about WebAssembly beyond the basics, this might be a good place to start:<br />
 <https://m99.io/articles/create-and-compose-webassembly-components-a-hands-on-example-with-rust>
+
+**Other Articles**
+
+- [Deploy a custom Helm Chart on a local Kubernetes Cluster](https://m99.io/articles/deploy-a-custom-helm-chart-on-a-local-kubernetes-cluster)
+- [Setup Rust & Haskell on macOS](https://m99.io/articles/setup-rust-haskell-on-macos)
+- [OpenTofu: A Terraform-Compatible, Fully Open-Source Alternative](https://m99.io/articles/opentufu-a-terraform-compatible-fully-open-source-alternative)
+- [Alacritty Meets Tmux](https://m99.io/articles/alacritty-meets-tmux)
+- [Asdf and .tool-versions](https://m99.io/articles/asdf-and-tool-versions)
+- [AWS Context Switch with Tab Autocompletion](https://m99.io/articles/aws-context-switch-with-tab-autocompletion)
