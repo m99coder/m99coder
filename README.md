@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 ### My Tech Stack
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-4d3b72?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-4d3b72?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Podman](https://img.shields.io/badge/Podman-4d3b72?style=for-the-badge&logo=podman&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/AWS-4d3b72?style=for-the-badge&logo=aws&logoColor=ffffff)
-![EKS](https://img.shields.io/badge/EKS-4d3b72?style=for-the-badge&logo=eks&logoColor=ffffff)
+![EKS](https://img.shields.io/badge/EKS-4d3b72?style=for-the-badge&logo=eks&logoColor=ffffff)<br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-4d3b72?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4d3b72?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-4d3b72?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-4d3b72?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)<br />
 ![Rust](https://img.shields.io/badge/Rust-4d3b72?style=for-the-badge&logo=rust&logoColor=ffffff)
 ![Golang](https://img.shields.io/badge/Golang-4d3b72?style=for-the-badge&logo=go&logoColor=ffffff)
 ![Scala](https://img.shields.io/badge/Scala-4d3b72?style=for-the-badge&logo=scala&logoColor=ffffff)
