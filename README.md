@@ -21,13 +21,16 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-4d3b72?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Podman](https://img.shields.io/badge/Podman-4d3b72?style=for-the-badge&logo=podman&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/AWS-4d3b72?style=for-the-badge&logo=aws&logoColor=ffffff)
-![EKS](https://img.shields.io/badge/EKS-4d3b72?style=for-the-badge&logo=eks&logoColor=ffffff)<br />
-![JavaScript](https://img.shields.io/badge/JavaScript-4d3b72?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-4d3b72?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-4d3b72?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)<br />
-![Rust](https://img.shields.io/badge/Rust-4d3b72?style=for-the-badge&logo=rust&logoColor=ffffff)
-![Golang](https://img.shields.io/badge/Golang-4d3b72?style=for-the-badge&logo=go&logoColor=ffffff)
-![Scala](https://img.shields.io/badge/Scala-4d3b72?style=for-the-badge&logo=scala&logoColor=ffffff)
+![EKS](https://img.shields.io/badge/EKS-4d3b72?style=for-the-badge&logo=eks&logoColor=ffffff)
+![Terraform](https://img.shields.io/badge/Terraform-4d3b72?style=for-the-badge&logo=terraform&logoColor=ffffff)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-4d3b72?style=for-the-badge&logo=opentofu&logoColor=ffffff)
+![CDK](https://img.shields.io/badge/CDK-4d3b72?style=for-the-badge&logo=cdk&logoColor=ffffff)<br />
+![JavaScript](https://img.shields.io/badge/JavaScript-9289aa?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-9289aa?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-9289aa?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/Rust-9289aa?style=for-the-badge&logo=rust&logoColor=ffffff)
+![Golang](https://img.shields.io/badge/Golang-9289aa?style=for-the-badge&logo=go&logoColor=ffffff)
+![Scala](https://img.shields.io/badge/Scala-9289aa?style=for-the-badge&logo=scala&logoColor=ffffff)
 
 ### My Certifications
 
