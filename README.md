@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="m99io.png" width="100" />
-
-I’m a Senior Software Engineer living in Berlin. Shifting limits based on quality and robustness. Cutting-edge software development. Defining durable and flexible interfaces. Creating rich and intuitive user experiences.
-
 ### My Tech Stack
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-4d3b72?style=for-the-badge&logo=kubernetes&logoColor=ffffff)](#)
