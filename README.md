@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 ![Golang](https://img.shields.io/badge/Golang-4d3b72?style=for-the-badge&logo=go&logoColor=ffffff)
 ![Scala](https://img.shields.io/badge/Scala-4d3b72?style=for-the-badge&logo=scala&logoColor=ffffff)
 
+### My Certifications
+
+I’m holding the Certified Kubernetes Administrator [certificate](https://www.credly.com/badges/72897663-61e3-4898-8fa3-15c805d56a37) issued by the Linux Foundation.
+
 ### My Latest Article
 
 <a href="https://m99.io/articles/create-and-compose-webassembly-components-a-hands-on-example-with-rust" target="_blank"><img src="https://m99.io/articles/create-and-compose-webassembly-components-a-hands-on-example-with-rust/index.png" alt="Create and Compose WebAssembly Components: A Hands-On Example with Rust" width="400" /></a>
